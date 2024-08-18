@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - ./output:/app/output 
+      - ./input:/app/input   
+    environment:
+      - NODE_ENV=development
+    command: ["npm", "start"]

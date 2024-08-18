@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Separator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Audio Separator</h1>
+        <form id="uploadForm">
+            <label for="file-upload" class="custom-file-upload">
+                +
+            </label>
+            <input id="file-upload" type="file" name="song" accept="audio/*">
+            <p id="file-name" class="hidden"></p>
+            <button type="button" id="uploadButton">Upload</button>
+        </form>
+        <div id="progress-container" class="hidden">
+            <div id="progress-bar"></div>
+        </div>
+        <div id="results-container" class="hidden"></div>
+        <div id="result" class="hidden">
+            <audio id="beat" controls></audio>
+            <audio id="vocals" controls></audio>
+            <a id="download-beat" href="#" download>Download Beat</a>
+            <a id="download-vocals" href="#" download>Download Vocals</a>
+        </div>
+        <div id="analyzing-animation" class="hidden">
+            <p>Analiz Ediliyor...</p>
+            <div class="spinner"></div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
