@@ -47,17 +47,29 @@ Bu proje, kullanıcıların müzik dosyalarını yükleyip vokal ve enstrümanta
    git clone https://github.com/kullanici-adi/audio-separator.git
    cd audio-separator
 2. **Gerekli Paketleri Yükleyin**
+   ```bash
    npm install
-3. **Docker Container Başlat**
+4. **Docker Container Başlat**
+   ```bash
    docker run -d -v $(pwd)/output:/output researchdeezer/spleeter
-4. **Uygulamayı başlat**
+5. **Uygulamayı başlat**
+   ```bash
    npm start
-5. **Tarayıcıda Aç**
+7. **Tarayıcıda Aç**
+   ```bash
    Tarayıcıda Açın: http://localhost:3000
+
+
+
+
 
 **UYGULAMA GÖRSELLERİ**
 <img src="https://github.com/muratozkol/AudioSeperator/blob/main/a.png?raw=true" width="320" height="180">
+<br>
 <img src="https://github.com/muratozkol/AudioSeperator/blob/main/b.png?raw=true" width="320" height="180">
+<br>
 <img src="https://github.com/muratozkol/AudioSeperator/blob/main/c.png?raw=true" width="320" height="180">
+<br>
 <img src="https://github.com/muratozkol/AudioSeperator/blob/main/d.png?raw=true" width="320" height="180">
+<br>
 <img src="https://github.com/muratozkol/AudioSeperator/blob/main/e.png?raw=true" width="320" height="180">
