@@ -56,8 +56,8 @@ Bu proje, kullanıcıların müzik dosyalarını yükleyip vokal ve enstrümanta
    Tarayıcıda Açın: http://localhost:3000
 
 **UYGULAMA GÖRSELLERİ**
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/a.png)" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/b.png)" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/c.png)" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/d.png)" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/e.png)" width="320" height="180">
+<img src="https://github.com/muratozkol/AudioSeperator/blob/main/a.png?raw=true" width="320" height="180">
+<img src="https://github.com/muratozkol/AudioSeperator/blob/main/b.png?raw=true" width="320" height="180">
+<img src="https://github.com/muratozkol/AudioSeperator/blob/main/c.png?raw=true" width="320" height="180">
+<img src="https://github.com/muratozkol/AudioSeperator/blob/main/d.png?raw=true" width="320" height="180">
+<img src="https://github.com/muratozkol/AudioSeperator/blob/main/e.png?raw=true" width="320" height="180">
