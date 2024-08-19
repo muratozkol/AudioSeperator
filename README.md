@@ -46,10 +46,18 @@ Bu proje, kullanıcıların müzik dosyalarını yükleyip vokal ve enstrümanta
    ```bash
    git clone https://github.com/kullanici-adi/audio-separator.git
    cd audio-separator
+2. **Gerekli Paketleri Yükleyin**
+   npm install
+3. **Docker Container Başlat**
+   docker run -d -v $(pwd)/output:/output researchdeezer/spleeter
+4. **Uygulamayı başlat**
+   npm start
+5. **Tarayıcıda Aç**
+   Tarayıcıda Açın: http://localhost:3000
 
 **UYGULAMA GÖRSELLERİ**
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/a.png)" alt="alt text" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/b.png)" alt="alt text" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/c.png)" alt="alt text" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/d.png)" alt="alt text" width="320" height="180">
-<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/e.png)" alt="alt text" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/a.png)" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/b.png)" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/c.png)" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/d.png)" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/e.png)" width="320" height="180">
