@@ -60,10 +60,8 @@ Bu proje, kullanıcıların müzik dosyalarını yükleyip vokal ve enstrümanta
    Tarayıcıda Açın: http://localhost:3000
 
 
-
-
-
 **UYGULAMA GÖRSELLERİ**
+<hr>
 <img src="https://github.com/muratozkol/AudioSeperator/blob/main/a.png?raw=true" width="320" height="180">
 <br>
 <img src="https://github.com/muratozkol/AudioSeperator/blob/main/b.png?raw=true" width="320" height="180">
