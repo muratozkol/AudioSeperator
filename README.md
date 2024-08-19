@@ -48,8 +48,8 @@ Bu proje, kullanıcıların müzik dosyalarını yükleyip vokal ve enstrümanta
    cd audio-separator
 
 **UYGULAMA GÖRSELLERİ**
-<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
-<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
-<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
-<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
-<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/a.png)" alt="alt text" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/b.png)" alt="alt text" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/c.png)" alt="alt text" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/d.png)" alt="alt text" width="320" height="180">
+<img src="[http://url/to/img.png](https://github.com/muratozkol/AudioSeperator/blob/main/e.png)" alt="alt text" width="320" height="180">
